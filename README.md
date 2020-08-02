@@ -1,3 +1,3 @@
 # Stockportfolio
 
-An Angular2 application that shows how to use Angular2 animatio
+An Angular2 application that shows how to use Angular2 animations in the context of a simple stock portfolio dash
