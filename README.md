@@ -9,4 +9,4 @@ An Angular2 application that shows how to use Angular2 animations in the context
 * To view each step, checkout the branch corresponding to the step, for instance, to checkout the first step, you'll want to run `git checkout part0`, and for the next step `git checkout part1` and so on.
 * When you checkout a branch as detailed above, you can then install dependencies with `npm install`, following which you should run `ng serve` to start the development server, see further instructions below.
 
-This project 
+This project was generated with [angular-cli](h
