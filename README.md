@@ -24,4 +24,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng t
+Run `ng test` to execute the unit tests via [Karma](htt
