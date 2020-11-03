@@ -13,4 +13,5 @@
       ],
       "index": "index.html",
       "main": "main.ts",
- 
+      "test": "test.ts",
+      "tsconfig": "tsconf
