@@ -16,4 +16,6 @@
       "test": "test.ts",
       "tsconfig": "tsconfig.json",
       "prefix": "app",
-      "mo
+      "mobile": false,
+      "styles": [
+        "style
