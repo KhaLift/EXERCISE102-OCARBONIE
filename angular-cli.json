@@ -20,4 +20,6 @@
       "styles": [
         "styles.css"
       ],
-      "scripts": []
+      "scripts": [],
+      "environments": {
+        "s
