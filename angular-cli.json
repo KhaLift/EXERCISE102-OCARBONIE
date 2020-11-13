@@ -34,4 +34,6 @@
     }
   },
   "test": {
-    "k
+    "karma": {
+      "config": "./karma.conf.js"
+ 
