@@ -51,4 +51,7 @@
       "directive": true,
       "module": false,
       "pipe": true,
-  
+      "service": true
+    }
+  }
+}
