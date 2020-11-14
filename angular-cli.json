@@ -39,4 +39,7 @@
     }
   },
   "defaults": {
-    "styleExt": "c
+    "styleExt": "css",
+    "prefixInterfaces": false,
+    "inline": {
+    
