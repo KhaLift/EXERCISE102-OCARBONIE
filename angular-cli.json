@@ -42,4 +42,6 @@
     "styleExt": "css",
     "prefixInterfaces": false,
     "inline": {
+      "style": false,
+      "template": false
     
