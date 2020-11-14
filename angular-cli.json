@@ -47,4 +47,5 @@
     },
     "spec": {
       "class": false,
-      "co
+      "component": true,
+      "directive": true,
