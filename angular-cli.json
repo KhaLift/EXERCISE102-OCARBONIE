@@ -44,4 +44,7 @@
     "inline": {
       "style": false,
       "template": false
-    
+    },
+    "spec": {
+      "class": false,
+      "co
