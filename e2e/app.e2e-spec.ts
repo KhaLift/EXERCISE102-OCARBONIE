@@ -4,4 +4,7 @@ describe('stockportfolio App', function() {
   let page: StockportfolioPage;
 
   beforeEach(() => {
-    page = ne
+    page = new StockportfolioPage();
+  });
+
+  it('should d
