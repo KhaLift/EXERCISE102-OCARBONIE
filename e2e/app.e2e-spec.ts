@@ -7,4 +7,5 @@ describe('stockportfolio App', function() {
     page = new StockportfolioPage();
   });
 
-  it('should d
+  it('should display message saying app works', () => {
+   
