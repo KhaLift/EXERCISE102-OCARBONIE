@@ -9,4 +9,5 @@ describe('stockportfolio App', function() {
 
   it('should display message saying app works', () => {
     page.navigateTo();
-    expect(page
+    expect(page.getParagraphText()).toEqual('app works!');
+  
