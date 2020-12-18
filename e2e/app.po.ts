@@ -1,1 +1,1 @@
-import { browser,
+import { browser, element, by } from 'protractor';
