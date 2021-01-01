@@ -2,4 +2,6 @@
   "compileOnSave": false,
   "compilerOptions": {
     "declaration": false,
-    "emitDecoratorMetadata": tru
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": 
