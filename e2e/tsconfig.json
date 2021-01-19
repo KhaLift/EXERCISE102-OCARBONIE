@@ -4,4 +4,5 @@
     "declaration": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "module": 
+    "module": "commonjs",
+    "moduleResolution": "
