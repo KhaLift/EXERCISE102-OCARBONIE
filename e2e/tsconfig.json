@@ -5,4 +5,5 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "module": "commonjs",
-    "moduleResolution": "
+    "moduleResolution": "node",
+    "outDir": "../dist/out
