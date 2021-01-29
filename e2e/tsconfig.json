@@ -6,4 +6,5 @@
     "experimentalDecorators": true,
     "module": "commonjs",
     "moduleResolution": "node",
-    "outDir": "../dist/out
+    "outDir": "../dist/out-tsc-e2e",
+    "sourceMap":
