@@ -1,2 +1,2 @@
 // Karma configuration file, see link for more information
-// htt
+// https://karma-runner.github.io/0.13/config/c
