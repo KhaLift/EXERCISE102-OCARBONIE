@@ -4,4 +4,6 @@
 module.exports = function (config) {
   config.set({
     basePath: '',
-    frameworks: ['jasmine', 'angul
+    frameworks: ['jasmine', 'angular-cli'],
+    plugins: [
+      require('karm
