@@ -7,4 +7,5 @@ module.exports = function (config) {
     frameworks: ['jasmine', 'angular-cli'],
     plugins: [
       require('karma-jasmine'),
-      require('karma-
+      require('karma-chrome-launcher'),
+      require('kar
