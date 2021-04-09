@@ -8,4 +8,5 @@ module.exports = function (config) {
     plugins: [
       require('karma-jasmine'),
       require('karma-chrome-launcher'),
-      require('kar
+      require('karma-remap-istanbul'),
+      require(
