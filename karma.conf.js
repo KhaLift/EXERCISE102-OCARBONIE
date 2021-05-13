@@ -18,4 +18,7 @@ module.exports = function (config) {
       './src/test.ts': ['angular-cli']
     },
     mime: {
-      'text/x-typescript': ['ts'
+      'text/x-typescript': ['ts','tsx']
+    },
+    remapIstanbulReporter: {
+     
