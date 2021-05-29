@@ -21,4 +21,6 @@ module.exports = function (config) {
       'text/x-typescript': ['ts','tsx']
     },
     remapIstanbulReporter: {
-     
+      reports: {
+        html: 'coverage',
+       
