@@ -24,4 +24,7 @@ module.exports = function (config) {
       reports: {
         html: 'coverage',
         lcovonly: './coverage/coverage.lcov'
- 
+      }
+    },
+    angularCli: {
+      config
