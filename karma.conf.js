@@ -27,4 +27,5 @@ module.exports = function (config) {
       }
     },
     angularCli: {
-      config
+      config: './angular-cli.json',
+      environment:
