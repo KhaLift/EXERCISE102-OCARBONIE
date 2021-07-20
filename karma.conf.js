@@ -30,4 +30,5 @@ module.exports = function (config) {
       config: './angular-cli.json',
       environment: 'dev'
     },
-    reporters: confi
+    reporters: config.angularCli && config.angularCli.codeCoverage
+  
