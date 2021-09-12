@@ -6,4 +6,4 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "l
+    "lint": "tslint \"src/**/*.ts\" --project src/tsconfig.
