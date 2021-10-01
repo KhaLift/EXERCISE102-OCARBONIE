@@ -12,4 +12,5 @@
     "e2e": "protractor"
   },
   "private": true,
-  "dependencie
+  "dependencies": {
+    "@angular/common": "^2.3.1
