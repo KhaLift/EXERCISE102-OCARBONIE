@@ -13,4 +13,6 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "^2.3.1
+    "@angular/common": "^2.3.1",
+    "@angular/compiler": "^2.3.1",
+ 
