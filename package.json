@@ -19,4 +19,5 @@
     "@angular/forms": "^2.3.1",
     "@angular/http": "^2.3.1",
     "@angular/platform-browser": "^2.3.1",
-    "@angular/platform-browser-dynam
+    "@angular/platform-browser-dynamic": "^2.3.1",
+    "@angular/router": "^3.3
