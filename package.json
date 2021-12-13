@@ -31,3 +31,5 @@
     "@types/jasmine": "2.5.38",
     "@types/node": "^6.0.42",
     "angular-cli": "1.0.0-beta.26",
+    "codelyzer": "~2.0.0-beta.1",
+   
