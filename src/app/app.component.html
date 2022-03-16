@@ -29,4 +29,5 @@
                 </tr>
               </thead>
               <tbody>
-                <tr class="gradeX" *ngFor="let stock of stockPrices"
+                <tr class="gradeX" *ngFor="let stock of stockPrices" [@trending]="stock.trend">
+             
