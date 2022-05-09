@@ -8,4 +8,6 @@ describe('AppComponent', () => {
     TestBed.configureTestingModule({
       declarations: [
         AppComponent
-   
+      ],
+    });
+    TestBed.compil
