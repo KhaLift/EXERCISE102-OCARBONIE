@@ -10,4 +10,7 @@ describe('AppComponent', () => {
         AppComponent
       ],
     });
-    TestBed.compil
+    TestBed.compileComponents();
+  });
+
+  it('should create
