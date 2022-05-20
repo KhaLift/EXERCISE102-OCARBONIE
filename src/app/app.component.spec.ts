@@ -13,4 +13,5 @@ describe('AppComponent', () => {
     TestBed.compileComponents();
   });
 
-  it('should create
+  it('should create the app', async(() => {
+    const fixt
