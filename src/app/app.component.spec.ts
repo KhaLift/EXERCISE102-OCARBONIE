@@ -19,4 +19,5 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   }));
 
-  it(`should have as title 'app works!'`, asyn
+  it(`should have as title 'app works!'`, async(() => {
+    const fixture = Tes
