@@ -21,4 +21,5 @@ describe('AppComponent', () => {
 
   it(`should have as title 'app works!'`, async(() => {
     const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.debugElement.componentI
+    const app = fixture.debugElement.componentInstance;
+    expect(app.title).toEqual('
