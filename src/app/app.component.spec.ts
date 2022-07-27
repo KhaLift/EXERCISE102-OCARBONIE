@@ -21,4 +21,4 @@ describe('AppComponent', () => {
 
   it(`should have as title 'app works!'`, async(() => {
     const fixture = TestBed.createComponent(AppComponent);
-    con
+    const app = fixture.debugElement.componentI
