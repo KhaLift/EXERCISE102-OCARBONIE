@@ -25,4 +25,4 @@ describe('AppComponent', () => {
     expect(app.title).toEqual('app works!');
   }));
 
-  it('should render tit
+  it('should render title in a h1 tag', async(() => {
