@@ -1,2 +1,2 @@
 // src/app/app.component.ts
-import { Component, trigger
+import { Component, trigger, state, style, animate, transition } fro
