@@ -4,4 +4,5 @@ import { Component, trigger, state, style, animate, transition } from '@angular/
 import { StockService } from './stock.service';
 
 @Component({
-  selector: 'app
+  selector: 'app-root',
+  templateUrl: './app
