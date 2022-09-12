@@ -5,4 +5,5 @@ import { StockService } from './stock.service';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.comp
