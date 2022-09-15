@@ -6,4 +6,6 @@ import { StockService } from './stock.service';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.comp
+  styleUrls: ['./app.component.css'],
+  animations: [
+    trigger('trend
