@@ -8,4 +8,6 @@ import { StockService } from './stock.service';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
   animations: [
-    trigger('trend
+    trigger('trending', [
+      state('DOWN', style({
+        'ba
