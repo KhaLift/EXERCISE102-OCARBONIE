@@ -10,4 +10,6 @@ import { StockService } from './stock.service';
   animations: [
     trigger('trending', [
       state('DOWN', style({
-        'ba
+        'background-color': 'red'
+      })),
+      state('
