@@ -15,4 +15,5 @@ import { StockService } from './stock.service';
       state('UP', style({
         'background-color': 'green'
       })),
-      transition('UP 
+      transition('UP => DOWN', [
+        style({transform: 'translate
