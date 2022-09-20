@@ -13,4 +13,6 @@ import { StockService } from './stock.service';
         'background-color': 'red'
       })),
       state('UP', style({
-        'background-colo
+        'background-color': 'green'
+      })),
+      transition('UP 
