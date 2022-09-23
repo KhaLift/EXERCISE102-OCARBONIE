@@ -16,4 +16,6 @@ import { StockService } from './stock.service';
         'background-color': 'green'
       })),
       transition('UP => DOWN', [
-        style({transform: 'translate
+        style({transform: 'translateX(-100%)'}),
+        animate(3000)
+    
