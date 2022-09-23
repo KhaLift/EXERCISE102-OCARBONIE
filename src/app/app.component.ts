@@ -18,4 +18,6 @@ import { StockService } from './stock.service';
       transition('UP => DOWN', [
         style({transform: 'translateX(-100%)'}),
         animate(3000)
-    
+      ]),
+      transition('DOWN => UP', [
+  
