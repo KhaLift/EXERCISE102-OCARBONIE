@@ -24,4 +24,7 @@ import { StockService } from './stock.service';
         animate(200)
       ])
     ])
-  
+  ],
+  providers: [StockService]
+})
+export 
