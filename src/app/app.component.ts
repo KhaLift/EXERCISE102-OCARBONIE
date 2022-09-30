@@ -20,4 +20,8 @@ import { StockService } from './stock.service';
         animate(3000)
       ]),
       transition('DOWN => UP', [
-        style({transform: 'translateY(-100
+        style({transform: 'translateY(-100%)'}),
+        animate(200)
+      ])
+    ])
+  
