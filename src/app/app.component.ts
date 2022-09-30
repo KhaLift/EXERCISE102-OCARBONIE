@@ -27,4 +27,5 @@ import { StockService } from './stock.service';
   ],
   providers: [StockService]
 })
-export 
+export class AppComponent {
+  title = 'Stock Dashboard'
