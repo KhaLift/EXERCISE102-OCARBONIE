@@ -35,4 +35,5 @@ export class AppComponent {
     this.stockService = stockService;
   }
 
-  getSto
+  getStockPrices() {
+    this.stockService.
