@@ -31,4 +31,5 @@ export class AppComponent {
   title = 'Stock Dashboard';
   stockPrices = [];
   stockService: StockService;
-  c
+  constructor(stockService: StockService) {
+    thi
