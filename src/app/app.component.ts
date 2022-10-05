@@ -36,4 +36,5 @@ export class AppComponent {
   }
 
   getStockPrices() {
-    this.stockService.
+    this.stockService.getStockPrices().then(prices => {
+   
