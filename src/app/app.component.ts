@@ -28,4 +28,7 @@ import { StockService } from './stock.service';
   providers: [StockService]
 })
 export class AppComponent {
-  title = 'Stock Dashboard'
+  title = 'Stock Dashboard';
+  stockPrices = [];
+  stockService: StockService;
+  c
