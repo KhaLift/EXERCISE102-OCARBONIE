@@ -37,4 +37,6 @@ export class AppComponent {
 
   getStockPrices() {
     this.stockService.getStockPrices().then(prices => {
-      console.log('just got prices: ', pri
+      console.log('just got prices: ', prices);
+      this.stockPrices = prices;
+ 
