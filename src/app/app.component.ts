@@ -37,4 +37,4 @@ export class AppComponent {
 
   getStockPrices() {
     this.stockService.getStockPrices().then(prices => {
-   
+      console.log('just got prices: ', pri
