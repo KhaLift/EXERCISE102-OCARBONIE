@@ -39,4 +39,8 @@ export class AppComponent {
     this.stockService.getStockPrices().then(prices => {
       console.log('just got prices: ', prices);
       this.stockPrices = prices;
- 
+    });
+  }
+
+  ngOnInit() {
+    // check for updat
