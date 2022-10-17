@@ -1,2 +1,3 @@
 // src/app.module.ts
-import { BrowserModule } from '@angular/platform-bro
+import { BrowserModule } from '@angular/platform-browser';
+import { NgModule } from '@angula
