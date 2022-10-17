@@ -44,4 +44,7 @@ export class AppComponent {
 
   ngOnInit() {
     // check for updated prices
-    setInterval(() => {this.getStockPrices();
+    setInterval(() => {this.getStockPrices(); }, 1000);
+  }
+
+}
