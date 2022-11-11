@@ -1,4 +1,6 @@
 /* tslint:disable:no-unused-variable */
 
 import { TestBed, async, inject } from '@angular/core/testing';
-import 
+import { StockService } from './stock.service';
+
+describe('Sto
