@@ -3,4 +3,5 @@
 import { TestBed, async, inject } from '@angular/core/testing';
 import { StockService } from './stock.service';
 
-describe('Sto
+describe('StockService', () => {
+  beforeEach(() => 
