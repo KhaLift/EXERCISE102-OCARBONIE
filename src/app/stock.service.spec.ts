@@ -6,4 +6,4 @@ import { StockService } from './stock.service';
 describe('StockService', () => {
   beforeEach(() => {
     TestBed.configureTestingModule({
- 
+      providers: [StockService]
