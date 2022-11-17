@@ -7,3 +7,7 @@ describe('StockService', () => {
   beforeEach(() => {
     TestBed.configureTestingModule({
       providers: [StockService]
+    });
+  });
+
+  it('should
