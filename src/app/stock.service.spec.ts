@@ -10,4 +10,4 @@ describe('StockService', () => {
     });
   });
 
-  it('should
+  it('should ...', inject([StockService], (service: StockS
