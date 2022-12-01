@@ -11,4 +11,6 @@ describe('StockService', () => {
   });
 
   it('should ...', inject([StockService], (service: StockService) => {
-    expect(service).toBeTrut
+    expect(service).toBeTruthy();
+  }));
+});
