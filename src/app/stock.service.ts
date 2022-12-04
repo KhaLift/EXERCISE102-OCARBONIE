@@ -5,4 +5,5 @@ export class StockService {
   static stocks: any;
 
   getStockPrices = () => {
-    //setInterval(() => {this.compu
+    //setInterval(() => {this.computePrices(); }, 1000);
+    StockService.co
