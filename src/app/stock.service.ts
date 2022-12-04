@@ -4,4 +4,5 @@ import { Injectable } from '@angular/core';
 export class StockService {
   static stocks: any;
 
-  getStockPrices 
+  getStockPrices = () => {
+    //setInterval(() => {this.compu
