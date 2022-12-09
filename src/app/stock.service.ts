@@ -10,4 +10,6 @@ export class StockService {
     return Promise.resolve(StockService.stocks);
   }
 
-  static incrementPrice = (stock, index) =>
+  static incrementPrice = (stock, index) => {
+    var price = stock.price;
+    price 
