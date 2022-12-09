@@ -7,4 +7,7 @@ export class StockService {
   getStockPrices = () => {
     //setInterval(() => {this.computePrices(); }, 1000);
     StockService.computePrices(StockService.stocks);
-    return Promise.resolve(StockService.stocks)
+    return Promise.resolve(StockService.stocks);
+  }
+
+  static incrementPrice = (stock, index) =>
