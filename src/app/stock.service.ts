@@ -6,4 +6,5 @@ export class StockService {
 
   getStockPrices = () => {
     //setInterval(() => {this.computePrices(); }, 1000);
-    StockService.co
+    StockService.computePrices(StockService.stocks);
+    
