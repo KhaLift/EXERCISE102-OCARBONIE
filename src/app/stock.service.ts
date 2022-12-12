@@ -12,4 +12,8 @@ export class StockService {
 
   static incrementPrice = (stock, index) => {
     var price = stock.price;
-    price 
+    price += 5;
+    if (price > 120) {
+      price = 120;
+    }
+  
