@@ -17,4 +17,5 @@ export class StockService {
       price = 120;
     }
     StockService.stocks[index].compute = StockService.uptrend;
-    StockService.s
+    StockService.stocks[index].trend = 'UP';
+    StockService.stocks[inde
