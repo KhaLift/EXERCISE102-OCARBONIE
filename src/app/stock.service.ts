@@ -16,4 +16,5 @@ export class StockService {
     if (price > 120) {
       price = 120;
     }
-    StockService.stocks[index].comp
+    StockService.stocks[index].compute = StockService.uptrend;
+    StockService.s
