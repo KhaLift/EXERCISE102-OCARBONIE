@@ -21,4 +21,5 @@ export class StockService {
     StockService.stocks[index].price = price;
   }
 
-  static decreasePri
+  static decreasePrice = (stock, index) => {
+    var price = stock.
