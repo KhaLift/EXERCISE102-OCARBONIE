@@ -18,4 +18,7 @@ export class StockService {
     }
     StockService.stocks[index].compute = StockService.uptrend;
     StockService.stocks[index].trend = 'UP';
-    StockService.stocks[inde
+    StockService.stocks[index].price = price;
+  }
+
+  static decreasePri
