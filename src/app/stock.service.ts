@@ -27,4 +27,5 @@ export class StockService {
     if (price < 0) {
       price = 0;
     }
-    StockService.stocks[index].compute = StockSer
+    StockService.stocks[index].compute = StockService.downtrend;
+    StockService.stocks[
