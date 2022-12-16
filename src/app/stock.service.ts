@@ -32,4 +32,4 @@ export class StockService {
     StockService.stocks[index].price = price;
   }
 
-  static
+  static computePrices = (input) =>
