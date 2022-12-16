@@ -28,4 +28,5 @@ export class StockService {
       price = 0;
     }
     StockService.stocks[index].compute = StockService.downtrend;
-    StockService.stocks[
+    StockService.stocks[index].trend = 'DOWN';
+    StockService.stocks[i
