@@ -32,4 +32,5 @@ export class StockService {
     StockService.stocks[index].price = price;
   }
 
-  static computePrices = (input) =>
+  static computePrices = (input) => {
+    console.log('computing new prices')
