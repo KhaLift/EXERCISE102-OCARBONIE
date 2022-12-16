@@ -33,4 +33,5 @@ export class StockService {
   }
 
   static computePrices = (input) => {
-    console.log('computing new prices')
+    console.log('computing new prices');
+    input.forEach(function(stock, in
