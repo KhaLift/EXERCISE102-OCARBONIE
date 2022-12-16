@@ -24,4 +24,7 @@ export class StockService {
   static decreasePrice = (stock, index) => {
     var price = stock.price;
     price -= 5;
-    if (price
+    if (price < 0) {
+      price = 0;
+    }
+    Stoc
