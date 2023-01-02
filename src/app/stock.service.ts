@@ -36,4 +36,6 @@ export class StockService {
     console.log('computing new prices');
     input.forEach(function(stock, index) {
       if (stock.price >= 120) {
-        StockService.decreasePrice(stock, 
+        StockService.decreasePrice(stock, index);
+      }
+      if (stock.price <
