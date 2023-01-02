@@ -38,4 +38,5 @@ export class StockService {
       if (stock.price >= 120) {
         StockService.decreasePrice(stock, index);
       }
-      if (stock.price <
+      if (stock.price <= 0) {
+        StockService.incrementPrice
