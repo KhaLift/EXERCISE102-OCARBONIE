@@ -43,4 +43,8 @@ export class StockService {
       }
 
       input[index].price = stock.compute.call(null, stock);
-   
+    });
+    return input;
+  }
+
+  st
