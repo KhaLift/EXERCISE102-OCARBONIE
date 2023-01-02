@@ -42,4 +42,5 @@ export class StockService {
         StockService.incrementPrice(stock, index)
       }
 
-      input[inde
+      input[index].price = stock.compute.call(null, stock);
+   
