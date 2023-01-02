@@ -39,4 +39,7 @@ export class StockService {
         StockService.decreasePrice(stock, index);
       }
       if (stock.price <= 0) {
-        StockService.incrementPrice
+        StockService.incrementPrice(stock, index)
+      }
+
+      input[inde
