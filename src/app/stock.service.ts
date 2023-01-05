@@ -52,4 +52,7 @@ export class StockService {
   }
 
   static downtrend = function(stock) {
-    
+    return stock.price - 5;
+  }
+
+  constructor() 
