@@ -55,4 +55,6 @@ export class StockService {
     return stock.price - 5;
   }
 
-  constructor() 
+  constructor() {
+    StockService.stocks = [
+          
