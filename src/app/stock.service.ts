@@ -48,4 +48,8 @@ export class StockService {
   }
 
   static uptrend = (stock) => {
-    return stock.price + 
+    return stock.price + 5;
+  }
+
+  static downtrend = function(stock) {
+    
