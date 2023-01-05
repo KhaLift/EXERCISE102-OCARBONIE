@@ -58,3 +58,4 @@ export class StockService {
   constructor() {
     StockService.stocks = [
                     { symbol: "GOOG", price: 120, compute: StockService.uptrend, bought_price: 50, quantity: 0, total_value: 21000, trend: 'UP' },
+                    { symbol: "YHOO", price: 100, compu
