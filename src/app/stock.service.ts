@@ -57,4 +57,4 @@ export class StockService {
 
   constructor() {
     StockService.stocks = [
-          
+                    { symbol: "GOOG", price: 120
