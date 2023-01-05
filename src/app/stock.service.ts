@@ -47,4 +47,5 @@ export class StockService {
     return input;
   }
 
-  st
+  static uptrend = (stock) => {
+    return stock.price + 
