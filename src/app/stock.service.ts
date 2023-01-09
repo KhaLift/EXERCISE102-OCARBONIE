@@ -59,4 +59,4 @@ export class StockService {
     StockService.stocks = [
                     { symbol: "GOOG", price: 120, compute: StockService.uptrend, bought_price: 50, quantity: 0, total_value: 21000, trend: 'UP' },
                     { symbol: "YHOO", price: 100, compute: StockService.uptrend, bought_price: 100, quantity: 0, total_value: 21000, trend: 'UP' },
-                    { symbol: "MSFT", price: 20, compute: StockService.uptrend, bought_price: 
+                    { symbol: "MSFT", price: 20, compute: StockService.uptrend, bought_price: 120, quantity: 0, total_value: 21000, trend
