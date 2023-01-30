@@ -60,4 +60,4 @@ export class StockService {
                     { symbol: "GOOG", price: 120, compute: StockService.uptrend, bought_price: 50, quantity: 0, total_value: 21000, trend: 'UP' },
                     { symbol: "YHOO", price: 100, compute: StockService.uptrend, bought_price: 100, quantity: 0, total_value: 21000, trend: 'UP' },
                     { symbol: "MSFT", price: 20, compute: StockService.uptrend, bought_price: 120, quantity: 0, total_value: 21000, trend: 'UP' },
-                    { symbol: "AAPL", price: 200, compute: StockService.uptrend
+                    { symbol: "AAPL", price: 200, compute: StockService.uptrend, bought_price: 85, quantity: 20, total_va
