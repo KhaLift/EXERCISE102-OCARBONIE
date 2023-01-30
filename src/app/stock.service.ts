@@ -62,4 +62,8 @@ export class StockService {
                     { symbol: "MSFT", price: 20, compute: StockService.uptrend, bought_price: 120, quantity: 0, total_value: 21000, trend: 'UP' },
                     { symbol: "AAPL", price: 200, compute: StockService.uptrend, bought_price: 85, quantity: 20, total_value: 21000, trend: 'UP' },
                   ];
-    console.log("Stocks from the stock service ", 
+    console.log("Stocks from the stock service ", StockService.stocks.toString());
+
+  }
+
+}
