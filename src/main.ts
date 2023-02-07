@@ -1,3 +1,3 @@
 import './polyfills.ts';
 
-import { platformBrowse
+import { platformBrowserDynamic } from '@angular/platform-b
