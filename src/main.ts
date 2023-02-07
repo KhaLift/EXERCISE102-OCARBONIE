@@ -1,1 +1,3 @@
-import './
+import './polyfills.ts';
+
+import { platformBrowse
