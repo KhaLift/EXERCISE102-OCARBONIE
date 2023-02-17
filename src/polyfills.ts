@@ -3,4 +3,5 @@
 import 'core-js/es6/symbol';
 import 'core-js/es6/object';
 import 'core-js/es6/function';
-import 'core-j
+import 'core-js/es6/parse-int';
+import 'core-js/es6/parse-
