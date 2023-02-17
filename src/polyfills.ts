@@ -7,4 +7,5 @@ import 'core-js/es6/parse-int';
 import 'core-js/es6/parse-float';
 import 'core-js/es6/number';
 import 'core-js/es6/math';
-import 
+import 'core-js/es6/string';
+import 'core-js/es6/date';
