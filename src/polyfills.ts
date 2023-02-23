@@ -10,4 +10,5 @@ import 'core-js/es6/math';
 import 'core-js/es6/string';
 import 'core-js/es6/date';
 import 'core-js/es6/array';
-import
+import 'core-js/es6/regexp';
+import 'core-js/es
