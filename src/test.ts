@@ -2,4 +2,6 @@
 
 import './polyfills.ts';
 
-import 'zone.js/dist/long-stack-trace-zon
+import 'zone.js/dist/long-stack-trace-zone';
+import 'zone.js/dist/proxy.js';
+import 'zone.js/d
