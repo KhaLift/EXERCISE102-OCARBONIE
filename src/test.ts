@@ -11,4 +11,5 @@ import 'zone.js/dist/fake-async-test';
 import { getTestBed } from '@angular/core/testing';
 import {
   BrowserDynamicTestingModule,
-  platformBrowserDynamic
+  platformBrowserDynamicTesting
+} from '@angular/platform-browser
