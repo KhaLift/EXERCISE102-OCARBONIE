@@ -12,4 +12,6 @@ import { getTestBed } from '@angular/core/testing';
 import {
   BrowserDynamicTestingModule,
   platformBrowserDynamicTesting
-} from '@angular/platform-browser
+} from '@angular/platform-browser-dynamic/testing';
+
+// Unfortunately there
