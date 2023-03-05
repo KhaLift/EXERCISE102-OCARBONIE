@@ -14,4 +14,4 @@ import {
   platformBrowserDynamicTesting
 } from '@angular/platform-browser-dynamic/testing';
 
-// Unfortunately there
+// Unfortunately there's no typing for the `__karma__` varia
