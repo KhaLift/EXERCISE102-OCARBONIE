@@ -22,4 +22,5 @@ declare var require: any;
 __karma__.loaded = function () {};
 
 // First, initialize the Angular testing environment.
-getTestBed().init
+getTestBed().initTestEnvironment(
+  BrowserDynamicTestingModu
