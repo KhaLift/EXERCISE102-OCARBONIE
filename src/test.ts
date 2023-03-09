@@ -19,4 +19,6 @@ declare var __karma__: any;
 declare var require: any;
 
 // Prevent Karma from running prematurely.
-__karma__.loaded = function (
+__karma__.loaded = function () {};
+
+// First, initialize the Angular testi
