@@ -24,4 +24,6 @@ __karma__.loaded = function () {};
 // First, initialize the Angular testing environment.
 getTestBed().initTestEnvironment(
   BrowserDynamicTestingModule,
-  platformBrowserDynamicTest
+  platformBrowserDynamicTesting()
+);
+// Then we find all the tes
