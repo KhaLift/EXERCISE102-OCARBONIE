@@ -2,4 +2,5 @@
   "compilerOptions": {
     "baseUrl": "",
     "declaration": false,
-    "emitDecoratorMetadata": t
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
