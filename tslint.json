@@ -1,3 +1,5 @@
 {
   "rulesDirectory": [
-    "n
+    "node_modules/codelyzer"
+  ],
+  "rules": 
