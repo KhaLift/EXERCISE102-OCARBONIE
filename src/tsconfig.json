@@ -8,4 +8,5 @@
     "mapRoot": "./",
     "module": "es6",
     "moduleResolution": "node",
-    "outDir": ".
+    "outDir": "../dist/out-tsc",
+    "sourceMap": true
