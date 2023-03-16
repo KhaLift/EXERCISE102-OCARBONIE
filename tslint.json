@@ -4,4 +4,7 @@
   ],
   "rules": {
     "callable-types": true,
-    "class-nam
+    "class-name": true,
+    "comment-format": [
+      true,
+  
