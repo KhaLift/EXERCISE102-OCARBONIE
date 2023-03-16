@@ -2,4 +2,6 @@
   "rulesDirectory": [
     "node_modules/codelyzer"
   ],
-  "rules": 
+  "rules": {
+    "callable-types": true,
+    "class-nam
