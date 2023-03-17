@@ -12,4 +12,5 @@
     "curly": true,
     "eofline": true,
     "forin": true,
-    "import-
+    "import-blacklist": [true, "rxjs"],
+ 
