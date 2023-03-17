@@ -10,4 +10,6 @@
       "check-space"
     ],
     "curly": true,
-    "eofli
+    "eofline": true,
+    "forin": true,
+    "import-
