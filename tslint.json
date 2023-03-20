@@ -19,4 +19,5 @@
       "spaces"
     ],
     "interface-over-type-literal": true,
-    "lab
+    "label-position": true,
+    "max-line-length": [
