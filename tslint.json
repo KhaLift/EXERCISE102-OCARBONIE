@@ -28,4 +28,5 @@
     "member-ordering": [
       true,
       "static-before-instance",
-      
+      "variables-before-functions"
+ 
