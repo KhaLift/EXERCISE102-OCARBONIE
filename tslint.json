@@ -24,4 +24,5 @@
       true,
       140
     ],
-    "member-acce
+    "member-access": false,
+    "member-ordering
