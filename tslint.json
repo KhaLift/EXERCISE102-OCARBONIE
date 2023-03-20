@@ -34,4 +34,7 @@
     "no-bitwise": true,
     "no-console": [
       true,
-      "deb
+      "debug",
+      "info",
+      "time",
+      "tim
