@@ -37,4 +37,7 @@
       "debug",
       "info",
       "time",
-      "tim
+      "timeEnd",
+      "trace"
+    ],
+    "no-cons
