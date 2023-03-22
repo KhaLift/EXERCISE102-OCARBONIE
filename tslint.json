@@ -45,4 +45,5 @@
     "no-duplicate-variable": true,
     "no-empty": false,
     "no-empty-interface": true,
-    "n
+    "no-eval": true,
+    "no-inferrable-types": t
