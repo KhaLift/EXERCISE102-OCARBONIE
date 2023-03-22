@@ -46,4 +46,5 @@
     "no-empty": false,
     "no-empty-interface": true,
     "no-eval": true,
-    "no-inferrable-types": t
+    "no-inferrable-types": true,
+    "no-shadowed-variable": tru
