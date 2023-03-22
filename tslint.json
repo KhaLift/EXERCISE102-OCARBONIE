@@ -42,4 +42,5 @@
     ],
     "no-construct": true,
     "no-debugger": true,
-    "
+    "no-duplicate-variable": true,
+    "no-empty": fal
