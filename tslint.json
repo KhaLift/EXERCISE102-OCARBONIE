@@ -40,4 +40,6 @@
       "timeEnd",
       "trace"
     ],
-    "no-cons
+    "no-construct": true,
+    "no-debugger": true,
+    "
