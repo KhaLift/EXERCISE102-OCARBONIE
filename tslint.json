@@ -49,4 +49,5 @@
     "no-inferrable-types": true,
     "no-shadowed-variable": true,
     "no-string-literal": false,
-    "no-stri
+    "no-string-throw": true,
+    "no-switch-case-fall
