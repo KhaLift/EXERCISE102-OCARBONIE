@@ -51,4 +51,5 @@
     "no-string-literal": false,
     "no-string-throw": true,
     "no-switch-case-fall-through": true,
-    "no-trailing-whitespace": tr
+    "no-trailing-whitespace": true,
+    "no-unused-expression": 
