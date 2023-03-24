@@ -63,4 +63,5 @@
       "check-else",
       "check-whitespace"
     ],
-    "pr
+    "prefer-const": true,
+    "quotemark":
