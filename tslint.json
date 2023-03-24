@@ -68,4 +68,6 @@
       true,
       "single"
     ],
-    "radix
+    "radix": true,
+    "semicolon": [
+      "al
