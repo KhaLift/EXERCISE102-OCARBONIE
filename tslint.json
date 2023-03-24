@@ -58,4 +58,7 @@
     "object-literal-sort-keys": false,
     "one-line": [
       true,
-      "check-open-b
+      "check-open-brace",
+      "check-catch",
+      "check-else",
+ 
