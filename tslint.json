@@ -76,3 +76,5 @@
       true,
       "allow-null-check"
     ],
+    "typedef-whitespace": [
+      t
