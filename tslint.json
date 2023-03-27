@@ -70,4 +70,7 @@
     ],
     "radix": true,
     "semicolon": [
-      "al
+      "always"
+    ],
+    "triple-equals": [
+     
