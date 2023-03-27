@@ -88,4 +88,6 @@
     ],
     "typeof-compare": true,
     "unified-signatures": true,
-    "variable-nam
+    "variable-name": false,
+    "whitespace": [
+    
