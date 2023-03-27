@@ -73,4 +73,6 @@
       "always"
     ],
     "triple-equals": [
-     
+      true,
+      "allow-null-check"
+    ],
