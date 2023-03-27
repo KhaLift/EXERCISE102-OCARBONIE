@@ -87,4 +87,5 @@
       }
     ],
     "typeof-compare": true,
-    "unifi
+    "unified-signatures": true,
+    "variable-nam
