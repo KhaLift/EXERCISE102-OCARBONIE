@@ -80,4 +80,4 @@
       true,
       {
         "call-signature": "nospace",
-  
+        "index-signature": "nospace"
