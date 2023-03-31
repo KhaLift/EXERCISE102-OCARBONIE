@@ -98,4 +98,5 @@
       "check-type"
     ],
 
-    "directive-selector": [true, "attribute
+    "directive-selector": [true, "attribute", "app", "camelCase"],
+    "component-selecto
