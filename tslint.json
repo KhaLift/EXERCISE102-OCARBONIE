@@ -92,4 +92,6 @@
     "whitespace": [
       true,
       "check-branch",
-      "check-dec
+      "check-decl",
+      "check-operator",
+      "check-separ
