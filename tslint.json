@@ -94,4 +94,8 @@
       "check-branch",
       "check-decl",
       "check-operator",
-      "check-separ
+      "check-separator",
+      "check-type"
+    ],
+
+  
