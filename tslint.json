@@ -99,4 +99,4 @@
     ],
 
     "directive-selector": [true, "attribute", "app", "camelCase"],
-    "component-selecto
+    "component-selector": [true, "element", "app", "kebab-case"]
