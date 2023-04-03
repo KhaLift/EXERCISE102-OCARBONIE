@@ -104,4 +104,5 @@
     "use-output-property-decorator": true,
     "use-host-property-decorator": true,
     "no-input-rename": true,
-    "n
+    "no-output-rename": true,
+    "use-life-c
