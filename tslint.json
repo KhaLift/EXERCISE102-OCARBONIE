@@ -106,4 +106,5 @@
     "no-input-rename": true,
     "no-output-rename": true,
     "use-life-cycle-interface": true,
-    "use-pipe-tran
+    "use-pipe-transform-interface": true,
+    "compo
